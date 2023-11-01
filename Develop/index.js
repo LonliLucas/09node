@@ -81,7 +81,7 @@ function init() {
     inquirer.prompt(questions)
     .then((answers) => {
         const content = createReadme(answers);
-        writeToFile('./output/README.md', content);
+        writeToFile('../output/README.md', content);
     }).catch((error) => {
         console.error('Error occured:', error);
     })

@@ -1,7 +1,7 @@
-# sdfafsd
+# Example
 
 ## Description
- asfd
+ Descriptiong Example
 
 ## Table of Contents
 
@@ -14,22 +14,22 @@
  [Questions](#questions)
 
 ## Installation
- df
+ Install example
 
 ## Usage
- sf
+ Usage Example
 
 ## Credits
- s
+ N/A
 
 ## License
- No License
+ MIT
 
 ## Tests
- fsf
+ Testing Example
 
 ## Questions
- Github: asdf
- https://github.com/asdf
+ Github: LonliLucas
+ https://github.com/LonliLucas
 
- Email: asfd
+ Email: lukej.gilless@gmail.com
